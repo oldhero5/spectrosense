@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "spectrosense"
+version = "0.1.0"
+description = "AI-powered RF signal analysis and classification"
+readme = "README.md"
+authors = [{name = "Marty Harris", email = "adeptbison@proton.me"}]
+license = {file = "LICENSE"}
+requires-python = ">=3.8"
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "anthropic",
+    "pillow",
+]
