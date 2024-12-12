@@ -1,0 +1,15 @@
+LICENCE
+README.md
+pyproject.toml
+setup.py
+spectrosense/__init__.py
+spectrosense/ai_integration.py
+spectrosense/analyzer.py
+spectrosense/config.py
+spectrosense/processor.py
+spectrosense/visualizer.py
+spectrosense.egg-info/PKG-INFO
+spectrosense.egg-info/SOURCES.txt
+spectrosense.egg-info/dependency_links.txt
+spectrosense.egg-info/requires.txt
+spectrosense.egg-info/top_level.txt
